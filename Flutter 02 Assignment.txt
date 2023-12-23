@@ -1,0 +1,39 @@
+ASSIGNMENT # 02
+Abdullah Bin Shahid
+•
+Dec 20 (Edited Dec 20)
+15 points
+Due 11:59 PM
+Q.1: Create a list of numbers & write a program to get the smallest & greatest number from a list.
+
+Q.2: remove all false values from below list by using removeWhere or retainWhere property.
+List<String> usersEligibility = ['John', 'Alice', 'eligible', 'Mike', 'Sarah', 'Tom'];
+
+Q.3: Given a list of integers, write a dart code that returns the maximum value from the list.
+
+Q.4: Write a Dart code that takes in a list of strings and removes any duplicate elements, returning a new list without duplicates. The order of elements in the new list should be the same as in the original list.
+
+Q.5: Write a program that takes a list
+of numbers as input and prints the even numbers in the list using a for loop.
+
+Example:
+
+Input:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+Output:
+2 4 6 8 10
+
+Q.6: Map<String, double> mathMarks = {
+  'ram': 30,
+  'mark': 32,
+  'harry': 88,
+  'raj': 69,
+  'john': 15,
+};
+
+Using ".removeWhere()" method remove key, value where value <= 30 then print the updated map mathMarks variable.
+
+Q.7:Create a map with name, phone keys and store some values to it. Use where to find all keys that have length 4.
+
+~~Create Git Profile at https://github.com/~~
